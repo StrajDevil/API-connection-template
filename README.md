@@ -2,7 +2,7 @@
 
 Sample code for connecting to different APIs.
 
-##About release:
+## About release:
 
 - Design pattern used in this code: **Factory Method**
 - Unit-test
